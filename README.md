@@ -1,3 +1,4 @@
+![CI](https://github.com/PriyankaSapte001/python-cpp-ci-pipeline/actions/workflows/ci.yml/badge.svg)
 # Python Wrapper for C++ Tool (CI-ready)
 
 ## Quick Start (local)
